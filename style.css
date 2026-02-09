@@ -26,13 +26,13 @@ body {
 }
 
 body.splash {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url('assets/merit_bg.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url('assets/mafia_bg.png');
     background-size: cover;
     background-position: center;
 }
 
 body.main {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('assets/merit_bg.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('assets/mafia_bg.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
